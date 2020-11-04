@@ -1,6 +1,7 @@
 # customer_management
 
 A new Flutter App to manage the customer details 
+
 Basic Flutter and Firebase Application where you can Add customers( Name, Address, Phone number )using firebase realtime database and add amount respective to customer. You can also search for customer by different parameters such as Name, address or mobile number
 
 
